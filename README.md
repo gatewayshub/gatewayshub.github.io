@@ -116,6 +116,7 @@ section h2 {
 <section>
 <h2>⚡ Schnellnavigation</h2>
 <div class="tiles">
+<a class="tile" href="https://youtube.com" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=youtube.com&sz=32"><h3>Youtube</h3></div><p>Videos</p></a>
 <a class="tile" href="https://chat.openai.com" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=openai.com&sz=32"><h3>ChatGPT</h3></div><p>AI Assistant</p></a>
 <a class="tile" href="https://www.amazon.de" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=amazon.de&sz=32"><h3>Amazon</h3></div><p>Shopping</p></a>
 <a class="tile" href="https://www.krone.at" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=krone.at&sz=32"><h3>Kronen Zeitung</h3></div><p>News</p></a>
