@@ -159,8 +159,8 @@ section h2 {
 <a class="tile" href="http://www.eso.org/public/outreach/press-rel/" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=eso.org&sz=32"><h3>ESO</h3></div><p>Press</p></a>
 <a class="tile" href="http://www.jpl.nasa.gov/" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=jpl.nasa.gov&sz=32"><h3>JPL</h3></div><p>NASA</p></a>
 <a class="tile" href="https://hubblesite.org/home" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=hubblesite.org&sz=32"><h3>HubbleSite</h3></div><p>HST</p></a>
-<a class="tile" href="http://www.nasa.gov/home/index.html" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=nasa.gov&sz=32"><h3>NASA</h3></div><p>Home</p></a>
-<a class="tile" href="https://webb.nasa.gov/" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=webb.nasa.gov&sz=32"><h3>JWST</h3></div><p>Webb</p></a>
+<a class="tile" href="http://www.nasa.gov/home/index.html" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=nasa.gov&sz=32"><h3>NASA</h3></div><p>Webb</p></a>
+<a class="tile" href="https://webb.nasa.gov/" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=webb.nasa.gov&sz=32"><h3>JWST</h3><
 </div><p>Soho</p></a>
 <a class="tile" href="https://soho.nascom.nasa.gov/data/realtime/realtime-update.html" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=soho.nascom.nasa.gov&sz=32"><h3>SOHO</h3></div><p>Soho</p></a>
 </div>
