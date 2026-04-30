@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="de">
 <head>
 <meta charset="UTF-8">
@@ -162,6 +161,9 @@ section h2 {
 <a class="tile" href="https://hubblesite.org/home" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=hubblesite.org&sz=32"><h3>HubbleSite</h3></div><p>HST</p></a>
 <a class="tile" href="http://www.nasa.gov/home/index.html" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=nasa.gov&sz=32"><h3>NASA</h3></div><p>Home</p></a>
 <a class="tile" href="https://webb.nasa.gov/" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=webb.nasa.gov&sz=32"><h3>JWST</h3></div><p>Webb</p></a>
+</div>
+</div><p>Home</p></a>
+<a class="tile" href="https://soho.nascom.nasa.gov/data/realtime/realtime-update.html" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=soho.nascom.nasa.gov&sz=32"><h3>SOHO</h3></div><p>Webb</p></a>
 </div>
 </section>
 
