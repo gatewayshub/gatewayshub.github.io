@@ -183,6 +183,7 @@ section h2 {
 <a class="tile" href="https://www.wetteronline.at/wetterradar/oesterreich" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=wetteronline.at&sz=32"><h3>Radar</h3></div><p>AT</p></a>
 <a class="tile" href="https://www.meteoblue.com/de/wetter/outdoorsports/seeing/stockerau_%c3%96sterreich_2764279" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=meteoblue.com&sz=32"><h3>Meteoblue</h3></div><p>Seeing</p></a>
 <a class="tile" href="https://sdo.gsfc.nasa.gov/" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=nasa.gov&sz=32"><h3>SDO</h3></div><p>Solar</p></a>
+<a class="tile" href="https://www.solarmonitor.org/" target="_blank"><div class="tile-header"><img class="tile-icon" src="https://www.google.com/s2/favicons?domain=solarmonitoring.org&sz=32"><h3>Solar</h3></div><p>Monitoring</p></a>
 </div>
 </section>
 
